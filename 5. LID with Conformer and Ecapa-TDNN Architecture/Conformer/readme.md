@@ -1,3 +1,15 @@
+## 🔗 Access Full Results
+
+You can explore the full training results, checkpoints, and visualizations for the Conformer-based LID model at the link below:
+
+[📁 Google Drive – lid_model_results_20250522_182133](https://drive.google.com/drive/folders/1itCJihuMkRx9ouccISsXvzWozaFIhf_0)
+
+
+
+
+
+
+
 ## 📂 Output Directory Structure
 
 ```
